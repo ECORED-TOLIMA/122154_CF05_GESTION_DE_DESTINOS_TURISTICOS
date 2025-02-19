@@ -561,7 +561,7 @@
             img.img200(src='@/assets/curso/temas/tema3/icono-08.svg', alt='Imagen decorativa')
         .col-lg-10.mb-4.mb-lg-0
           h4 Validar la propuesta
-          p Una vez desarrollada la propuesta de valor, es crucial validarla con clientes reales. Esto puede hacerse mediante encuestas, pruebas de producto o feedback directo. Esta retroalimentación es fundamental para ajustar y mejorar la oferta, asegurando que cumpla con las expectativas del mercado objetivo. 
+          p Una vez desarrollada la propuesta de valor, es crucial validarla con clientes reales. Esto puede hacerse mediante encuestas, pruebas de producto o #[i feedback] directo. Esta retroalimentación es fundamental para ajustar y mejorar la oferta, asegurando que cumpla con las expectativas del mercado objetivo. 
 
 
 
@@ -579,51 +579,51 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: 'Comunicación verbal',
+        titulo: 'Tecnología y digitalización',
         texto:
-          'Se realiza mediante palabras, ya sea de manera oral o escrita. Ejemplos incluyen conversaciones, discursos, correos electrónicos y mensajes de texto.',
+          'La sostenibilidad se ha convertido en una prioridad en la innovación turística. Se promueven prácticas que minimizan el impacto ambiental, apoyan el desarrollo de las comunidades locales y conservan la biodiversidad. Colombia, con su vasta riqueza natural, ha apostado por productos turísticos que respetan el medio ambiente, tales como el ecoturismo, el agroturismo y el turismo comunitario, lo que permite ofrecer experiencias que son tanto atractivas como responsables.',
         imagen: require('@/assets/curso/temas/tema3/img-04.png'),
       },
       {
-        titulo: 'Comunicación no verbal',
+        titulo: 'Sostenibilidad',
         texto:
-          'Implica el uso de gestos, expresiones faciales, posturas, tono de voz y otros elementos no verbales para transmitir mensajes. Tiene un gran impacto en la percepción del mensaje.',
+          'La sostenibilidad se ha convertido en una prioridad en la innovación turística. Se promueven prácticas que minimizan el impacto ambiental, apoyan el desarrollo de las comunidades locales y conservan la biodiversidad. Colombia, con su vasta riqueza natural, ha apostado por productos turísticos que respetan el medio ambiente, tales como el ecoturismo, el agroturismo y el turismo comunitario, lo que permite ofrecer experiencias que son tanto atractivas como responsables.',
         imagen: require('@/assets/curso/temas/tema3/img-05.png'),
       },
       {
-        titulo: 'Comunicación visual',
+        titulo: 'Desarrollo de experiencias auténticas',
         texto:
-          'Se refiere al uso de imágenes, gráficos, videos y otros recursos visuales para comunicar ideas o información. Es común en medios digitales y publicidad.',
+          'La creación de experiencias auténticas y personalizadas es una tendencia creciente. Los turistas buscan más que un simple recorrido; desean conectarse profundamente con la cultura, la historia y las tradiciones locales. Innovar en este aspecto significa desarrollar productos que vayan más allá de lo convencional, como el turismo cultural, gastronómico y de bienestar, proporcionando vivencias únicas y enriquecedoras.',
         imagen: require('@/assets/curso/temas/tema3/img-06.png'),
       },
       {
-        titulo: 'Comunicación formal',
+        titulo: 'Turismo rural y de naturaleza',
         texto:
-          'Sigue estructuras y protocolos específicos, como informes, cartas oficiales y reuniones de negocios. Generalmente ocurre en entornos organizacionales.',
+          'Aprovechando la diversidad geográfica y cultural del país, se han creado productos turísticos en zonas menos exploradas, promoviendo el turismo rural y de naturaleza. La infraestructura adecuada y las experiencias de bajo impacto ambiental, como el senderismo, la observación de aves y las visitas a parques nacionales, están contribuyendo a un turismo más sostenible y en contacto directo con la naturaleza.',
         imagen: require('@/assets/curso/temas/tema3/img-07.png'),
       },
       {
-        titulo: 'Comunicación informal',
+        titulo: 'Segmentación y especialización',
         texto:
-          'Es más espontánea y menos estructurada, como las charlas cotidianas entre colegas o amigos. No sigue reglas formales y suele ocurrir en contextos sociales.',
+          'Innovar también significa diversificar la oferta para atender nichos específicos de mercado. Esto incluye el turismo de aventura, el turismo de bienestar, el turismo LGBT+ y otros segmentos que requieren productos adaptados a sus intereses particulares. La creación de estos productos especializados permite atraer nuevos mercados y fidelizar a los turistas con propuestas más personalizadas.',
         imagen: require('@/assets/curso/temas/tema3/img-08.png'),
       },
       {
-        titulo: 'Comunicación interna',
+        titulo: 'Colaboración público-privada',
         texto:
-          'Se da dentro de una organización entre sus miembros. Es fundamental para la coordinación de tareas y el buen funcionamiento de la entidad.',
+          'La colaboración entre el sector público y privado ha sido fundamental para el desarrollo de productos turísticos innovadores. Estas alianzas han facilitado el desarrollo de infraestructura, la capacitación de personal y la implementación de políticas que mejoran la experiencia del turista y posicionan a Colombia como un destino de calidad.',
         imagen: require('@/assets/curso/temas/tema3/img-09.png'),
       },
       {
-        titulo: 'Comunicación externa',
+        titulo: 'Sistemas de calidad y certificaciones',
         texto:
-          'Se dirige hacia personas o entidades ajenas a la organización, como clientes, proveedores o el público en general. Es clave para la imagen y las relaciones públicas de la entidad.',
+          'El establecimiento de productos turísticos certificados, como el sello de calidad turística, y la adopción de estándares internacionales en la oferta turística de Colombia, ayudan a fortalecer la confianza de los viajeros. Esto es especialmente relevante en el ámbito de la sostenibilidad, donde las certificaciones garantizan el compromiso con el respeto al medio ambiente y la cultura local.',
         imagen: require('@/assets/curso/temas/tema3/img-010.png'),
       },
       {
-        titulo: 'Comunicación externa',
+        titulo: 'Diversificación de destinos',
         texto:
-          'Se dirige hacia personas o entidades ajenas a la organización, como clientes, proveedores o el público en general. Es clave para la imagen y las relaciones públicas de la entidad.',
+          'Además de los destinos tradicionales como Cartagena y Bogotá, Colombia ha apostado por diversificar su oferta turística. Destinos como el Amazonas, el Eje Cafetero o la región del Pacífico han ganado popularidad, ofreciendo experiencias únicas y menos masificadas que permiten a los turistas descubrir el país desde una perspectiva diferente y más auténtica.',
         imagen: require('@/assets/curso/temas/tema3/img-011.png'),
       },
     ],

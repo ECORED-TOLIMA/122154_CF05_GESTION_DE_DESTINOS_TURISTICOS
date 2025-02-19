@@ -32,7 +32,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '1.	Identificación del producto turístico',
+        titulo: 'Identificación del producto turístico',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -91,7 +91,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: '3.	Calidad y competitividad turística',
+        titulo: 'Calidad y competitividad turística',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -138,7 +138,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: '4.	Consideraciones para analizar la capacidad de carga',
+        titulo: 'Consideraciones para analizar la capacidad de carga',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -157,7 +157,7 @@ export default {
         nombreRuta: 'tema5',
         numero: '5',
         titulo:
-          '5.	La competitividad en el producto turístico desde las diferentes entidades',
+          'La competitividad en el producto turístico desde las diferentes entidades',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -364,12 +364,6 @@ export default {
     {
       referencia: 'Registro Nacional de Turismo (RNT). (s.f.).',
       link: 'https://rnt.confecamaras.co/home',
-    },
-    {
-      referencia:
-        'Ruiz, P., & Sánchez, M. (2019). La calidad en los servicios turísticos y su impacto en la competitividad: Caso de Colombia. Revista de Turismo y Desarrollo.',
-      link:
-        'https://www.researchgate.net/figure/Figura-1-Factores-y-dimension-de-turismo-y-sostenibilidad-Programa-de-la-Naciones_fig2_328102410',
     },
     {
       referencia: 'UN. (2015). Objetivos de Desarrollo Sostenible (ODS).',

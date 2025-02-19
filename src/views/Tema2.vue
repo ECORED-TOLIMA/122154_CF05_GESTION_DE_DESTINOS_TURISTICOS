@@ -322,7 +322,7 @@
           ul.lista-ul
             li.mb-1 
               i.fas.fa-angle-right(style="color: #7D3A1B")
-              p.mb-0 #[b Benchmarking:] comparar el producto con la competencia, evaluando precios, servicios y experiencias similares.
+              p.mb-0 #[b #[i Benchmarking]:] comparar el producto con la competencia, evaluando precios, servicios y experiencias similares.
 
             li.mb-1 
               i.fas.fa-angle-right(style="color: #7D3A1B")

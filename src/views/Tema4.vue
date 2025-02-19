@@ -160,6 +160,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/img-08-02.svg', alt='Imagen decorativa')
 
+    p Estas consideraciones no solo aseguran la sostenibilidad de los destinos, sino que también mejoran la experiencia del turista al garantizar entornos bien gestionados y respetuosos con la naturaleza y las comunidades locales. En Colombia, donde la diversidad de ecosistemas es un atractivo clave, una planificación adecuada basada en estas consideraciones es crucial para evitar la sobreexplotación y fomentar un turismo responsable.
 
 </template>
 

@@ -16,7 +16,7 @@ export default {
       tema: 'Estrategias de productos turísticos sostenibles',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> verificar el manejo de las temáticas identificación, diseño, marketing, paquetes, calidad y competitividad del producto turístico.',
+        '<b> Objetivo:</b> verificar el manejo de las temáticas identificación, diseño, <i>marketing</i>, paquetes, calidad y competitividad del producto turístico.',
       barajarPreguntas: true,
       preguntas: [
         {
