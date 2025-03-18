@@ -58,7 +58,7 @@
     Separador
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.2. Estrategias a aplicar en el producto turístico en Colombia
+      h2 3.2. Estrategias para el desarrollo del producto turístico en Colombia
 
     p.mb-5 El desarrollo de productos turísticos en Colombia requiere la aplicación de estrategias diversificadas para aprovechar su riqueza natural, cultural e histórica. Las principales estrategias que se implementan en el país son las siguientes:
 
@@ -354,7 +354,7 @@
                   ul
                     li.mb-0
                       i.lista-ul__vineta
-                      p.mb-0 #[b Seguridad y confort:] evaluación del estado de los vehículos y las condiciones de seguridad en el transporte terrestre, aéreo y marítimo.
+                      p.mb-0 #[b Seguridad y #[em confort]:] evaluación del estado de los vehículos y las condiciones de seguridad en el transporte terrestre, aéreo y marítimo.
 
                     li.mb-0
                       i.lista-ul__vineta
@@ -549,7 +549,7 @@
             img.img200(src='@/assets/curso/temas/tema3/icono-02.svg', alt='Imagen decorativa')
         .col-lg-10.mb-4.mb-lg-0
           h4 Identificar los atributos únicos del destino o servicio
-          p Colombia es un país con una rica diversidad natural y cultural. Los recursos naturales, como selvas, montañas, playas, y su diversidad cultural (pueblos indígenas, gastronomía, patrimonio histórico), son algunos de los elementos clave que deben destacarse en la propuesta de valor. Definir qué hace único al destino o servicio es esencial. ¿Es una experiencia en el Amazonas?, ¿Un recorrido gastronómico por Cartagena?, y ¿O un tour de avistamiento de aves en el Eje Cafetero? Identificar estos elementos diferenciadores es fundamental.
+          p Colombia es un país con una rica diversidad natural y cultural. Los recursos naturales, como selvas, montañas, playas, y su diversidad cultural (pueblos indígenas, gastronomía, patrimonio histórico), son algunos de los elementos clave que deben destacarse en la propuesta de valor. Definir qué hace único al destino o servicio es esencial. ¿Es una experiencia en el Amazonas?, ¿Un recorrido gastronómico por Cartagena?, y ¿O un #[em tour] de avistamiento de aves en el Eje Cafetero? Identificar estos elementos diferenciadores es fundamental.
 
       .row.justify-content-center(titulo="03")
         .col-lg-2.col-4.mb-4.mb-lg-0
@@ -581,8 +581,7 @@
             img.img200(src='@/assets/curso/temas/tema3/icono-06.svg', alt='Imagen decorativa')
         .col-lg-10.mb-4.mb-lg-0
           h4 Comunicación efectiva
-          p Una vez que se tiene clara la propuesta de valor, es esencial comunicarla de manera efectiva. Utilizar slogans atractivos, descripciones breves y creativas que resuman lo que hace único el producto turístico. Además, es importante utilizar canales de <em>marketing</em> digital, como sitios web, redes sociales y plataformas de reservas, para difundir la propuesta a un público más amplio.
-      
+          p Una vez que se tiene clara la propuesta de valor, es esencial comunicarla de manera efectiva. Utilizar slogans atractivos, descripciones breves y creativas que resuman lo que hace único el producto turístico. Además, es importante utilizar canales de <em>marketing</em> digital, como sitios web, redes sociales y plataformas de reservas, para difundir la propuesta a un público más amplio.  
       .row.justify-content-center(titulo="07")
         .col-lg-2.col-4.mb-4.mb-lg-0
           figure
@@ -592,13 +591,10 @@
           ul.lista-ul
             li.mb-1 
               i.fas.fa-angle-right(style="color: #7D3A1B")
-              p.mb-0 #[b Calidad del servicio: Producto: Eco-turismo en la Sierra Nevada de Santa Marta.]
-
-            
+              p.mb-0 #[b Calidad del servicio: Producto]: Eco-turismo en la Sierra Nevada de Santa Marta.
             li.mb-1 
               i.fas.fa-angle-right(style="color: #7D3A1B")
-              p.mb-0 #[b Satisfacción del cliente: Propuesta de valor: "Explora la cultura ancestral de los indígenas Kogui mientras disfrutas de la biodiversidad única de la Sierra Nevada, todo en una experiencia eco-sostenible que respeta el entorno natural y cultural. Vive una aventura auténtica que transforma tu perspectiva, mientras apoyas la conservación del medio ambiente y las comunidades locales."]
-
+              p.mb-0 #[b Satisfacción del cliente: Propuesta de valor]: "Explora la cultura ancestral de los indígenas Kogui mientras disfrutas de la biodiversidad única de la Sierra Nevada, todo en una experiencia eco-sostenible que respeta el entorno natural y cultural. Vive una aventura auténtica que transforma tu perspectiva, mientras apoyas la conservación del medio ambiente y las comunidades locales."
           p Este ejemplo resume los pasos anteriores, mostrando cómo identificar atributos únicos (como la cultura Kogui y la biodiversidad de la Sierra Nevada), desarrollar beneficios emocionales (aventura auténtica, conexión con la naturaleza), y resaltar la sostenibilidad (respeto por el entorno y las comunidades locales). Sirve como un modelo para construir propuestas de valor que atraigan tanto a turistas nacionales como internacionales.
 
       .row.justify-content-center(titulo="08")

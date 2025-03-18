@@ -190,7 +190,7 @@
                 
                 li 
                   i.fas.fa-check-circle
-                  p #[b Protección de la biodiversidad:] se diseñan actividades que respetan y protegen la flora y fauna locales, como tours de observación de fauna que sigan prácticas éticas o rutas de senderismo que no alteren los ecosistemas.
+                  p #[b Protección de la biodiversidad:] se diseñan actividades que respetan y protegen la flora y fauna locales, como <em>tours</em> de observación de fauna que sigan prácticas éticas o rutas de senderismo que no alteren los ecosistemas.
 
             .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
@@ -283,7 +283,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon.color-secundario.p-4
-          p.mb-0 #[b Ejemplo de producto turístico sostenible:] un producto turístico sostenible podría consistir en el diseño de una ruta de ecoturismo en una reserva natural, donde los visitantes participen en actividades como caminatas guiadas, lideradas por guías locales capacitados en conservación, talleres de artesanía con comunidades indígenas, y alojamiento en eco-lodges que utilicen energías renovables. Parte de los ingresos generados se destinaría a proyectos de reforestación y programas de educación ambiental para la comunidad local.
+          p.mb-0 #[b Ejemplo de producto turístico sostenible:] un producto turístico sostenible podría consistir en el diseño de una ruta de ecoturismo en una reserva natural, donde los visitantes participen en actividades como caminatas guiadas, lideradas por guías locales capacitados en conservación, talleres de artesanía con comunidades indígenas, y alojamiento en #[em eco-lodges] que utilicen energías renovables. Parte de los ingresos generados se destinaría a proyectos de reforestación y programas de educación ambiental para la comunidad local.
 
     p.mb-5 En este contexto, es importante destacar la aplicación de los Objetivos de Desarrollo Sostenible (ODS) en el diseño de productos turísticos. La Agenda 2030 para el Desarrollo Sostenible establece una guía global para lograr un desarrollo equilibrado que integre aspectos sociales, económicos y medioambientales. Aplicar estos objetivos al turismo permite crear experiencias responsables y sostenibles que beneficien tanto a los turistas como a las comunidades locales y al entorno natural.
 
@@ -448,7 +448,7 @@
             .cajon.cajon.color-secundario.p-4.mb-4
               p.mb-0 #[b Los productos turísticos en Colombia siguen una lógica de circuitos que conectan destinos estratégicos y permiten explorar la autenticidad y diversidad de cada región. Estos circuitos no solo facilitan una experiencia integral y atractiva para el turista, sino que también promueven un turismo responsable.]
 
-    p.mb-5 Al implementar prácticas sostenibles y respetuosas con el medio ambiente, se busca impactar positivamente a las comunidades locales, empoderándolas para que formen parte activa del desarrollo turístico. Así, Colombia se consolida como un destino versátil y vibrante, con un compromiso creciente hacia un turismo que respeta y preserva su riqueza natural y cultural para futuras generaciones .
+    p.mb-5 Al implementar prácticas sostenibles y respetuosas con el medio ambiente, se busca impactar positivamente a las comunidades locales, empoderándolas para que formen parte activa del desarrollo turístico. Así, Colombia se consolida como un destino versátil y vibrante, con un compromiso creciente hacia un turismo que respeta y preserva su riqueza natural y cultural para futuras generaciones.
 
     .tarjeta.color-acento-contenido-a.p-3.mb-5(style="background-color: #FFE9DF")
       .row.justify-content-around.align-items-center
@@ -560,7 +560,7 @@
               ul.lista-ul
                 li.mb-0
                   i.lista-ul__vineta
-                  p #[b Alojamiento:] hoteles, eco-lodges, casas rurales, según el perfil del cliente
+                  p #[b Alojamiento:] hoteles, <em>eco-lodges</em>, casas rurales, según el perfil del cliente
 
                 li.mb-0 
                   i.lista-ul__vineta
@@ -576,7 +576,7 @@
                 
                 li.mb-0 
                   i.lista-ul__vineta
-                  p #[b Experiencias únicas:] actividades exclusivas como entradas a museos, parques o tours.
+                  p #[b Experiencias únicas:] actividades exclusivas como entradas a museos, parques o <b>tours</b>.
                 
                 li.mb-0 
                   i.lista-ul__vineta

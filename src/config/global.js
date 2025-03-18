@@ -102,7 +102,7 @@ export default {
           {
             numero: '3.2',
             titulo:
-              'Estrategias a aplicar en el producto turístico en Colombia',
+              'Estrategias para el desarrollo del producto turístico en Colombia',
             hash: 't_3_2',
           },
           {
@@ -212,11 +212,6 @@ export default {
         download: 'downloads/CFA_05_122154_DU.pdf',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -303,6 +298,10 @@ export default {
     {
       referencia:
         'Bermúdez, J., & Romero, A. (2022). Turismo sostenible en Colombia: Retos y oportunidades. Editorial Turismo & Sociedad.',
+    },
+    {
+      referencia:
+        'Bermúdez, L., & Romero, A. (2022). Desarrollo sostenible y competitividad turística en Colombia. Editorial Turística.',
     },
     {
       referencia: 'Corpoturismo. (s.f.). Cartagena de Indias.',

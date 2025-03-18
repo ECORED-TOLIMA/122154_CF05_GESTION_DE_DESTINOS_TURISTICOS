@@ -114,12 +114,11 @@
                 th(style="width:30%") Tipo
                 th(style="width:30%") Objetivos
                 th(style="width:50%") Aspectos a considerar
-
             tbody
               tr(style="background-color: #F6F6F6")
                 td.text-center Valoración funcional
                 td Evaluar si el producto turístico cumple con las funciones básicas que promete.
-                td 
+                td.text-start 
                   ul.lista-ul
                     li.mb-0 
                       ul
@@ -135,11 +134,10 @@
                         li
                           i.lista-ul__vineta
                           | Calidad del servicio al cliente.
-
               tr
                 td.text-center Valoración experiencial
                 td Medir la satisfacción del turista en cuanto a la experiencia vivida.
-                td 
+                td.text-start 
                   ul.lista-ul
                     li.mb-0 
                       ul
@@ -155,11 +153,10 @@
                         li
                           i.lista-ul__vineta
                           | Innovación en las actividades ofrecidas.
-
               tr(style="background-color: #F6F6F6")
                 td.text-center Valoración económica
                 td Evaluar la relación entre el costo del producto turístico y el valor percibido.
-                td 
+                td.text-start
                   ul.lista-ul
                     li.mb-0 
                       ul
@@ -175,11 +172,10 @@
                         li
                           i.lista-ul__vineta
                           | Impacto económico en la comunidad local.
-
               tr
                 td.text-center Valoración sostenible
                 td Medir el impacto ambiental y social del producto turístico.
-                td 
+                td.text-start
                   ul.lista-ul
                     li.mb-0 
                       ul
@@ -195,11 +191,10 @@
                         li
                           i.lista-ul__vineta
                           | Implementación de prácticas responsables (uso de energías renovables y protección de la biodiversidad).
-
               tr(style="background-color: #F6F6F6")
                 td.text-center Valoración cultural
                 td Evaluar la integración y promoción de la cultura local en el diseño del producto.
-                td 
+                td.text-start
                   ul.lista-ul
                     li.mb-0 
                       ul
@@ -215,11 +210,10 @@
                         li
                           i.lista-ul__vineta
                           | Respeto por las sensibilidades culturales.
-              
               tr
                 td.text-center Valoración de accesibilidad
                 td Verificar si el producto turístico es accesible para todos los públicos, incluyendo personas con discapacidades o necesidades especiales.
-                td 
+                td.text-start
                   ul.lista-ul
                     li.mb-0 
                       ul
@@ -235,11 +229,10 @@
                         li
                           i.lista-ul__vineta
                           | Inclusión de actividades accesibles.
-
               tr(style="background-color: #F6F6F6")
                 td.text-center Valoración de seguridad
                 td Evaluar las condiciones de seguridad del producto turístico.
-                td 
+                td.text-start
                   ul.lista-ul
                     li.mb-0 
                       ul
