@@ -576,7 +576,7 @@
                 
                 li.mb-0 
                   i.lista-ul__vineta
-                  p #[b Experiencias únicas:] actividades exclusivas como entradas a museos, parques o <b>tours</b>.
+                  p #[b Experiencias únicas:] actividades exclusivas como entradas a museos, parques o <em>tours</em>.
                 
                 li.mb-0 
                   i.lista-ul__vineta

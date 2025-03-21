@@ -212,6 +212,11 @@ export default {
         download: 'downloads/CFA_05_122154_DU.pdf',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
+      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
