@@ -112,7 +112,7 @@
           .col-lg-8.order-lg-2.order-2
             h4.mb-0 Capacidad de Carga Efectiva (CCE):
             br
-            p.mb-0 CCR = CCF x (1 - ΣFg)
+            p.mb-0 CCE = CCR x (1 - ΣFg)
             p.mb-0 Donde:
             .tarjeta.tarjeta--blanca.p-4.mb-4
               ul.lista-ul

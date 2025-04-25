@@ -9,7 +9,8 @@
   </template>
 
 <script>
-import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
+// eslint-disable-next-line prettier/prettier
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue';
 export default {
   name: 'ActividadDidactica',
   components: {
@@ -325,7 +326,7 @@ export default {
         },
       ],
       mensaje_final_aprobado:
-        '¡Excelente! Lo felicito, ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
+        '¡Excelente! Felicitaciones, ha superado la actividad y demuestra sólidos conocimientos sobre el componente formativo.',
       mensaje_final_reprobado:
         'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
     },

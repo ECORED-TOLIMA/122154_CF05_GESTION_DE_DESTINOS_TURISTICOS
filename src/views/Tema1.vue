@@ -402,27 +402,23 @@
     p.mb-5 En este contexto, es importante destacar la aplicación de algunos pasos clave para integrar el turismo regenerativo en el diseño de productos turísticos:
     
     .row.justify-content-center.mb-5
-      .col-12.col-md-10.col-lg-10(data-aos="fade-down")
+      .col-12.col-md-10(data-aos="fade-down")
         ImagenInfografica.color-acento-botones.mb-4.desktop
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/img-018.svg', alt='Imagen decorativa')
-
           .tarjeta.tarjeta--blanca.p-3(x="32.5%" y="8%" numero="+")
             p El diseño del producto debe ser co-creado con la comunidad local, promoviendo su empoderamiento económico y cultural. Incorporar prácticas que valoren la cultura local, como talleres de gastronomía y experiencias de arte, permite un desarrollo turístico que respeta y celebra el patrimonio cultural.
-
           .tarjeta.tarjeta--blanca.p-3(x="68%" y="8%" numero="+")
             p La infraestructura debe ser ecológica, utilizando materiales sostenibles, energías renovables y prácticas de economía circular. Esto incluye el compostaje de residuos orgánicos y el uso de agua reutilizable, promoviendo un consumo responsable.
-
           .tarjeta.tarjeta--blanca.p-3(x="15.5%" y="27%" numero="+")
             p Implica una investigación exhaustiva del entorno natural, identificando fragilidades y oportunidades de regeneración. Es esencial colaborar con ecólogos y expertos locales para asegurar que el turismo contribuya a la restauración del medio ambiente mediante prácticas como la reforestación y la limpieza de hábitats.
-
           .tarjeta.tarjeta--blanca.p-3(x="50%" y="26.5%" numero="+")
             p Se busca que los turistas se reconecten con la naturaleza y comprendan la importancia de la regeneración ambiental. Actividades como caminatas guiadas, ceremonias locales y educación ambiental ayudan a fomentar un compromiso consciente con la conservación.
-
           .tarjeta.tarjeta--blanca.p-3(x="84.5%" y="27%" numero="+")
             p Es fundamental evaluar constantemente los impactos en la comunidad y el medio ambiente, adaptando el producto turístico a las necesidades cambiantes del entorno para garantizar su regeneración a largo plazo.
-
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/img-028.svg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
         .cajon.cajon.color-secundario.p-4

@@ -180,7 +180,7 @@
         .row.justify-content-center
           .col-lg-5.order-lg-1.order-2
             .h4 Tecnología y digitalización
-            p.mb-0 La sostenibilidad se ha convertido en una prioridad en la innovación turística. Se promueven prácticas que minimizan el impacto ambiental, apoyan el desarrollo de las comunidades locales y conservan la biodiversidad. Colombia, con su vasta riqueza natural, ha apostado por productos turísticos que respetan el medio ambiente, tales como el ecoturismo, el agroturismo y el turismo comunitario, lo que permite ofrecer experiencias que son tanto atractivas como responsables.
+            p.mb-0 El uso de plataformas en línea, aplicaciones móviles, inteligencia artificial y big data ha permitido mejorar significativamente la experiencia del turista. Estas tecnologías facilitan la reserva de servicios, proporcionan acceso inmediato a información relevante y permiten personalizar los viajes. Un ejemplo de innovación es el concepto de #[em "smart tourism"] que emplea la tecnología para optimizar la experiencia del viajero y mejorar la eficiencia de servicios turísticos.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/temas/tema3/img-04.png', alt='Imagen decorativa')
         .row.justify-content-center
@@ -327,7 +327,7 @@
                     
                     li.mb-0
                       i.lista-ul__vineta
-                      p.mb-0 #[b Instalaciones y comodidades:] incluye la limpieza, el mantenimiento, la seguridad y el confort de los establecimientos como hoteles, hostales y alojamientos rurales.
+                      p.mb-0 #[b Instalaciones y comodidades:] incluye la limpieza, el mantenimiento, la seguridad y el #[em confort] de los establecimientos como hoteles, hostales y alojamientos rurales.
                     
                     li.mb-0
                       i.lista-ul__vineta
@@ -591,10 +591,10 @@
           ul.lista-ul
             li.mb-1 
               i.fas.fa-angle-right(style="color: #7D3A1B")
-              p.mb-0 #[b Calidad del servicio: Producto]: Eco-turismo en la Sierra Nevada de Santa Marta.
+              p.mb-0 #[b Producto]: Eco-turismo en la Sierra Nevada de Santa Marta.
             li.mb-1 
               i.fas.fa-angle-right(style="color: #7D3A1B")
-              p.mb-0 #[b Satisfacción del cliente: Propuesta de valor]: "Explora la cultura ancestral de los indígenas Kogui mientras disfrutas de la biodiversidad única de la Sierra Nevada, todo en una experiencia eco-sostenible que respeta el entorno natural y cultural. Vive una aventura auténtica que transforma tu perspectiva, mientras apoyas la conservación del medio ambiente y las comunidades locales."
+              p.mb-0 #[b Propuesta de valor]: "Explora la cultura ancestral de los indígenas Kogui mientras disfrutas de la biodiversidad única de la Sierra Nevada, todo en una experiencia eco-sostenible que respeta el entorno natural y cultural. Vive una aventura auténtica que transforma tu perspectiva, mientras apoyas la conservación del medio ambiente y las comunidades locales."
           p Este ejemplo resume los pasos anteriores, mostrando cómo identificar atributos únicos (como la cultura Kogui y la biodiversidad de la Sierra Nevada), desarrollar beneficios emocionales (aventura auténtica, conexión con la naturaleza), y resaltar la sostenibilidad (respeto por el entorno y las comunidades locales). Sirve como un modelo para construir propuestas de valor que atraigan tanto a turistas nacionales como internacionales.
 
       .row.justify-content-center(titulo="08")
