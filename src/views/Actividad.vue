@@ -125,7 +125,7 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El <em>marketing</em> es importante para comunicar la propuesta de valor de destinos sostenibles.',
+            '¡Correcto! El marketing es importante para comunicar la propuesta de valor de destinos sostenibles.',
           mensaje_incorrecto:
             'No es correcto. El marketing es esencial para atraer y educar sobre destinos sostenibles.',
         },
